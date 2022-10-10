@@ -1,11 +1,5 @@
-<div style="width:150px; height:100px; border-radius: 50%;">
-![mod.dream logo](/resurces/icons/md-color.png?raw=true)
-</div>
+<img src="/resurces/icons/md-color.png" alt="mod.dream logo" style="height: 120px; width:120px;"/>
 
 # mod.dream 
 
 Here is where we share our config files and other stuff
-
-## License
-
-[MIT License](http://rflpazini.mit-license.org) :copyright: Rafael Pazini
