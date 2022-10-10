@@ -1,5 +1,5 @@
 <div style="width:150px; height:100px; border-radius: 50%;">
-![mod.dream logo](/resurces/icons/md-color.png)
+![mod.dream logo](/resurces/icons/md-color.png?raw=true)
 </div>
 
 # mod.dream 
